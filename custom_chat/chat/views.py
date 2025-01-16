@@ -1,9 +1,9 @@
-from django.shortcuts import render
-import json
-import random
-from django.http import JsonResponse
-from django.views.decorators.csrf import csrf_exempt
-import os
+from django.shortcuts import render # Importing the 'render' function from Django to render HTML templates
+import json # Importing the 'json' module to work with JSON data
+import random # Importing the 'random' module to disconnect randomly
+from django.http import JsonResponse # Importing the 'JsonResponse' class from Django to return JSON responses to HTTP requests
+from django.views.decorators.csrf import csrf_exempt # Decorator to exempt the view from CSRF verification (Cross-Site Request Forgery)
+import os # Importing the 'os' module to interact with the operating system
 
 
 # Define constants for file paths
@@ -58,7 +58,6 @@ def chat_view(request):
 
             # Load chat logs
             chat_logs = load_chat_logs()
-            # user_exists = any(session["user_name"].lower() == user_name.lower() for session in chat_logs)
             session = next((s for s in chat_logs if s["user_name"].lower() == user_name.lower()), None)
 
             # Create a new session if it doesn't exist
@@ -160,7 +159,8 @@ def chat_view(request):
     except Exception as e:
     
         return JsonResponse({"error": "Invalid request method."}, status=400)
-    
+
+# View to get chat history of existing user    
 @csrf_exempt
 def get_chat_history(request, user_name):
     if request.method != 'GET':
@@ -177,7 +177,7 @@ def get_chat_history(request, user_name):
         all_messages = []
         for session in user_sessions:
             for msg in session['messages']:
-                # Identify agent messages (assuming agent_name is consistent within a session)
+                # Identify agent messages 
                 agent_name = session['agent_name']
                 if agent_name in msg:
                     all_messages.append({

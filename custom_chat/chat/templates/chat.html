@@ -44,8 +44,8 @@
             overflow-y: auto;
             border-bottom: 1px solid #ddd;
             position: absolute;
-            top: 90px; /* Adjust this value based on the height of the header */
-            bottom: 60px; /* Adjust this value based on the height of the input container */
+            top: 90px; 
+            bottom: 60px; 
             width: calc(100% - 20px);
         }
         #input-container {
@@ -105,7 +105,7 @@
         }
 
         .history-header button {
-            background-color: #007bff; /* Blue button for actions */
+            background-color: #007bff; 
             color: white;
             border: none;
             padding: 5px 10px;
@@ -114,7 +114,7 @@
         }
 
         .history-header button:hover {
-            background-color: #0056b3; /* Darker blue on hover */
+            background-color: #0056b3; 
         }
 
         #name-container {
@@ -219,8 +219,6 @@
             // Reset chatbox content
             chatBox.innerHTML = ""; // Clear chatbox to ensure no residual messages are shown
 
-            // Reset messages array
-            // messages = [];
             userName = localStorage.getItem("userName");
            
             if (storedSession && userName) {
@@ -405,7 +403,7 @@
                 alert(error.message);
             }
         }
-
+        
         async function toggleHistory() {
             const historyBox = document.getElementById('history-box');
             if (historyBox.style.display === "none" || !historyBox.style.display) {
@@ -415,6 +413,7 @@
             }
         }
 
+        // Function to fetch the chat history of existing user
         async function fetchChatHistory() {
             const userName = localStorage.getItem("userName");
             if (!userName) {
