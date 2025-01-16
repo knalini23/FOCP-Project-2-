@@ -1,0 +1,467 @@
+[
+    {
+        "session_id": 1,
+        "user_name": "lara",
+        "agent_name": "Alexis",
+        "messages": [
+            {
+                "Alexis": "Hi, I am Alexis. How can I help you?"
+            },
+            {
+                "lara": "when will the library open"
+            },
+            {
+                "Alexis": "The library is open from 7 AM to 10 PM. You can also reserve study rooms online!"
+            },
+            {
+                "lara": "goodbye"
+            },
+            {
+                "Alexis": "Goodbye, lara! It was nice chatting with you. Come back anytime!"
+            },
+            {
+                "Alexis": "Hi again, lara! What can I help you with this time?"
+            },
+            {
+                "lara": "are the admissions going on"
+            },
+            {
+                "Alexis": "Admissions are open, lara! You can visit the admissions office from 9 AM to 5 PM or apply online on our website."
+            },
+            {
+                "lara": "bye"
+            },
+            {
+                "Alexis": "Goodbye, lara! It was nice chatting with you. Come back anytime!"
+            },
+            {
+                "Alexis": "Hi again, lara! What can I help you with this time?"
+            },
+            {
+                "lara": "bye"
+            },
+            {
+                "Alexis": "Goodbye, lara! It was nice chatting with you. Come back anytime!"
+            },
+            {
+                "Alexis": "Hi again, lara! What can I help you with this time?"
+            },
+            {
+                "lara": "bye"
+            },
+            {
+                "Alexis": "Bye, lara. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Alexis": "Hi again, lara! What can I help you with this time?"
+            },
+            {
+                "lara": "bye"
+            },
+            {
+                "Alexis": "Bye, lara. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Alexis": "Hi again, lara! What can I help you with this time?"
+            },
+            {
+                "lara": "bye"
+            },
+            {
+                "Alexis": "Bye, lara. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Alexis": "Hi again, lara! What can I help you with this time?"
+            },
+            {
+                "lara": "bye"
+            },
+            {
+                "Alexis": "Bye, lara. If you ever want to chat again, I'll be here!"
+            }
+        ],
+        "ended": true
+    },
+    {
+        "session_id": 2,
+        "user_name": "kyle",
+        "agent_name": "Casey",
+        "messages": [
+            {
+                "Casey": "Hi, I am Casey. How can I help you?"
+            },
+            {
+                "kyle": "tell me about scholarship"
+            },
+            {
+                "Casey": "Scholarship applications are due by March 15th, kyle. Visit the financial aid office for more info!"
+            },
+            {
+                "kyle": "when does library open and when is the exam"
+            },
+            {
+                "Casey": "The library is open from 7 AM to 10 PM. You can also reserve study rooms online! Exam schedules are posted on the student portal, kyle. Make sure to check the dates and prepare accordingly!"
+            },
+            {
+                "kyle": "bye"
+            },
+            {
+                "Casey": "Goodbye, kyle! It was nice chatting with you. Come back anytime!"
+            },
+            {
+                "Casey": "Hi again, kyle! What can I help you with this time?"
+            },
+            {
+                "kyle": "i want to have coffee"
+            },
+            {
+                "Casey": "Need a caffeine boost, kyle? The coffee bar opens at 8 AM on weekdays!"
+            },
+            {
+                "kyle": "exit"
+            },
+            {
+                "Casey": "Bye, kyle. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Casey": "Hi again, kyle! What can I help you with this time?"
+            },
+            {
+                "kyle": "exit"
+            },
+            {
+                "Casey": "Bye, kyle. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Casey": "Hi again, kyle! What can I help you with this time?"
+            },
+            {
+                "kyle": "goodbye"
+            },
+            {
+                "Casey": "Goodbye, kyle! It was nice chatting with you. Come back anytime!"
+            },
+            {
+                "Casey": "Hi again, kyle! What can I help you with this time?"
+            },
+            {
+                "kyle": "tell me when the exam starts"
+            },
+            {
+                "Casey": "Exam schedules are posted on the student portal, kyle. Make sure to check the dates and prepare accordingly!"
+            },
+            {
+                "kyle": "bye"
+            },
+            {
+                "Casey": "Goodbye, kyle! It was nice chatting with you. Come back anytime!"
+            }
+        ],
+        "ended": true
+    },
+    {
+        "session_id": 3,
+        "user_name": "kan",
+        "agent_name": "Casey",
+        "messages": [
+            {
+                "Casey": "Hi, I am Casey. How can I help you?"
+            },
+            {
+                "kan": "bye"
+            },
+            {
+                "Casey": "Bye, kan. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Casey": "Hi again, kan! What can I help you with this time?"
+            },
+            {
+                "kan": "where is library"
+            },
+            {
+                "Casey": "The library is open from 7 AM to 10 PM. You can also reserve study rooms online!"
+            },
+            {
+                "kan": "bye"
+            },
+            {
+                "Casey": "Bye, kan. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Casey": "Hi again, kan! What can I help you with this time?"
+            },
+            {
+                "kan": "when is the exam and when does admissions open"
+            },
+            {
+                "Casey": "Admissions are open, kan! You can visit the admissions office from 9 AM to 5 PM or apply online on our website. Exams coming up, kan? Don't forget to review the schedule on the student portal."
+            },
+            {
+                "kan": "bye"
+            },
+            {
+                "Casey": "Goodbye, kan! It was nice chatting with you. Come back anytime!"
+            },
+            {
+                "Casey": "Hi again, kan! What can I help you with this time?"
+            },
+            {
+                "kan": "when does coffee bar open"
+            },
+            {
+                "Casey": "Need a caffeine boost, kan? The coffee bar opens at 8 AM on weekdays!"
+            },
+            {
+                "kan": "exit"
+            },
+            {
+                "Casey": "Bye, kan. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Casey": "Hi again, kan! What can I help you with this time?"
+            },
+            {
+                "kan": "hi"
+            },
+            {
+                "Casey": "Hi there, kan! How can I assist you?"
+            },
+            {
+                "kan": "bye"
+            },
+            {
+                "Casey": "Bye, kan. If you ever want to chat again, I'll be here!"
+            }
+        ],
+        "ended": true
+    },
+    {
+        "session_id": 4,
+        "user_name": "sia",
+        "agent_name": "Riley",
+        "messages": [
+            {
+                "Riley": "Hi again, sia! What can I help you with this time?"
+            },
+            {
+                "sia": "exam"
+            },
+            {
+                "Riley": "Exams coming up, sia? Don't forget to review the schedule on the student portal."
+            },
+            {
+                "sia": "bye"
+            },
+            {
+                "Riley": "Goodbye, sia! It was nice chatting with you. Come back anytime!"
+            },
+            {
+                "Riley": "Hi again, sia! What can I help you with this time?"
+            },
+            {
+                "sia": "bye"
+            },
+            {
+                "Riley": "Goodbye, sia! It was nice chatting with you. Come back anytime!"
+            },
+            {
+                "Riley": "Hi again, sia! What can I help you with this time?"
+            },
+            {
+                "sia": "when will coffee bar open"
+            },
+            {
+                "Riley": "The campus coffee bar is open from 8 AM to 8 PM on weekdays and 9 AM to 5 PM on weekends, sia. Come grab a cup!"
+            },
+            {
+                "sia": "bye"
+            },
+            {
+                "Riley": "Goodbye, sia! It was nice chatting with you. Come back anytime!"
+            }
+        ],
+        "ended": true
+    },
+    {
+        "session_id": 5,
+        "user_name": "kylie",
+        "agent_name": "Blake",
+        "messages": [
+            {
+                "Blake": "Hi, I am Blake. How can I help you?"
+            },
+            {
+                "kylie": "tell me about scholarship"
+            },
+            {
+                "Blake": "Scholarship applications are due by March 15th, kylie. Visit the financial aid office for more info!"
+            },
+            {
+                "kylie": "bye"
+            },
+            {
+                "Blake": "Bye, kylie. If you ever want to chat again, I'll be here!"
+            }
+        ],
+        "ended": true
+    },
+    {
+        "session_id": 6,
+        "user_name": "susi",
+        "agent_name": "Alexis",
+        "messages": [
+            {
+                "Alexis": "Hi, I am Alexis. How can I help you?"
+            },
+            {
+                "susi": "tell me when does the coffee bar open"
+            },
+            {
+                "Alexis": "The campus coffee bar is open from 8 AM to 8 PM on weekdays and 9 AM to 5 PM on weekends, susi. Come grab a cup!"
+            },
+            {
+                "susi": "exit"
+            },
+            {
+                "Alexis": "Goodbye, susi! It was nice chatting with you. Come back anytime!"
+            }
+        ],
+        "ended": true
+    },
+    {
+        "session_id": 7,
+        "user_name": "hana",
+        "agent_name": "Riley",
+        "messages": [
+            {
+                "Riley": "Hi, I am Riley. How can I help you?"
+            },
+            {
+                "hana": "hi"
+            },
+            {
+                "Riley": "Hi there, hana! How can I assist you?"
+            },
+            {
+                "hana": "what is the cafeteria menu"
+            },
+            {
+                "Riley": "Hungry, hana? The cafeteria menu is updated daily on the student portal."
+            },
+            {
+                "hana": "bye"
+            },
+            {
+                "Riley": "Bye, hana. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Riley": "Hi again, hana! What can I help you with this time?"
+            },
+            {
+                "hana": "bye"
+            },
+            {
+                "Riley": "Bye, hana. If you ever want to chat again, I'll be here!"
+            }
+        ],
+        "ended": true
+    },
+    {
+        "session_id": 8,
+        "user_name": "nam",
+        "agent_name": "Blake",
+        "messages": [
+            {
+                "Blake": "Hi, I am Blake. How can I help you?"
+            },
+            {
+                "nam": "which events are coming up"
+            },
+            {
+                "Blake": "Check out the events calendar on our website for upcoming activities, workshops, and fun nights, nam!"
+            },
+            {
+                "nam": "bye"
+            },
+            {
+                "Blake": "Bye, nam. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Blake": "Hi again, nam! What can I help you with this time?"
+            },
+            {
+                "nam": "when will admissions open"
+            },
+            {
+                "Blake": "Admissions are open, nam! You can visit the admissions office from 9 AM to 5 PM or apply online on our website."
+            },
+            {
+                "Blake": "Hi again, nam! What can I help you with this time?"
+            },
+            {
+                "nam": "bye"
+            },
+            {
+                "Blake": "Bye, nam. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Blake": "Hi again, nam! What can I help you with this time?"
+            },
+            {
+                "nam": "bye"
+            },
+            {
+                "Blake": "Bye, nam. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Blake": "Hi again, nam! What can I help you with this time?"
+            },
+            {
+                "nam": "library"
+            },
+            {
+                "Blake": "Looking for a quiet place, nam? The library is open until 10 PM today."
+            },
+            {
+                "nam": "bye"
+            },
+            {
+                "Blake": "Bye, nam. If you ever want to chat again, I'll be here!"
+            }
+        ],
+        "ended": true
+    },
+    {
+        "session_id": 9,
+        "user_name": "kaur",
+        "agent_name": "Casey",
+        "messages": [
+            {
+                "Casey": "Hi, I am Casey. How can I help you?"
+            },
+            {
+                "kaur": "bye"
+            },
+            {
+                "Casey": "Bye, kaur. If you ever want to chat again, I'll be here!"
+            },
+            {
+                "Casey": "Hi again, kaur! What can I help you with this time?"
+            },
+            {
+                "kaur": "library"
+            },
+            {
+                "Casey": "Looking for a quiet place, kaur? The library is open until 10 PM today."
+            },
+            {
+                "kaur": "quit"
+            },
+            {
+                "Casey": "Bye, kaur. If you ever want to chat again, I'll be here!"
+            }
+        ],
+        "ended": true
+    }
+]

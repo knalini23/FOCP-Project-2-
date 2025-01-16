@@ -1,0 +1,58 @@
+{
+    "agent_names": ["Alexis", "Riley", "Blake", "Casey"],
+    "keywords": {
+        "coffee": [
+            "The campus coffee bar is open from 8 AM to 8 PM on weekdays and 9 AM to 5 PM on weekends, {user_name}. Come grab a cup!",
+            "Need a caffeine boost, {user_name}? The coffee bar opens at 8 AM on weekdays!"
+        ],
+        "library": [
+            "The library is open from 7 AM to 10 PM. You can also reserve study rooms online!",
+            "Looking for a quiet place, {user_name}? The library is open until 10 PM today."
+        ],
+        "admissions": [
+            "Admissions are open, {user_name}! You can visit the admissions office from 9 AM to 5 PM or apply online on our website.",
+            "Need help with admissions? Our office is open weekdays from 9 AM to 5 PM."
+        ],
+        "scholarship": [
+            "Scholarship applications are due by March 15th, {user_name}. Visit the financial aid office for more info!",
+            "Looking for scholarships, {user_name}? Check out our website for opportunities and deadlines."
+        ],
+        "exam": [
+            "Exam schedules are posted on the student portal, {user_name}. Make sure to check the dates and prepare accordingly!",
+            "Exams coming up, {user_name}? Don't forget to review the schedule on the student portal."
+        ],
+        "sports": [
+            "Our college offers basketball, soccer, tennis, and more, {user_name}! Visit the sports complex for details.",
+            "Interested in sports, {user_name}? Join our college teams and use our state-of-the-art facilities!"
+        ],
+        "cafeteria": [
+            "The cafeteria serves breakfast from 7 AM to 10 AM, lunch from 11 AM to 2 PM, and dinner from 5 PM to 8 PM, {user_name}.",
+            "Hungry, {user_name}? The cafeteria menu is updated daily on the student portal."
+        ],
+        "events": [
+            "Check out the events calendar on our website for upcoming activities, workshops, and fun nights, {user_name}!",
+            "Don't miss out on our cultural fest this Friday at 6 PM in the main hall, {user_name}!"
+        ],
+        "hostel": [
+            "Hostel rooms are equipped with Wi-Fi and laundry facilities, {user_name}. Contact the housing office for availability.",
+            "Looking for accommodation, {user_name}? Our hostels offer single and shared rooms with great amenities."
+        ],
+        "greetings": [
+            "Hey, {user_name}! I'm doing great, thanks for asking. How about you?",
+            "Hi there, {user_name}! How can I assist you?",
+            "Hello, {user_name}! I'm here and ready to chat. What's on your mind?"
+        ],
+        "quit": [
+            "Goodbye, {user_name}! It was nice chatting with you. Come back anytime!",
+            "Bye, {user_name}. If you ever want to chat again, I'll be here!"
+        ]
+
+    },
+    "random_responses": [
+        "That's an interesting question, {user_name}! Let me know if there's anything specific you'd like to know.",
+        "I'm here to help, {user_name}. Feel free to ask me about campus facilities, admissions, or anything else!",
+        "Hmm, I don't have information on that. Maybe try rephrasing your question, {user_name}?",
+        "Our college has so much to offer, {user_name}. Do you want to know about events, facilities, or courses?",
+        "Great question, {user_name}! Let me find some information for you."
+    ]
+}
